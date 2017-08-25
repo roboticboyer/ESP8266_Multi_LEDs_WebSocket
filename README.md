@@ -1,4 +1,4 @@
-# ESP8266_Multi_LEDs_WebSocket
-ESP8266 Example of a webpage with LEDs and Bottons managed by WebSocket
+# ESP8266 Multi LEDs WebSocket
+Example of a webpage with LEDs and Bottons managed by WebSocket on ESP8266
 
 This is the draft version
